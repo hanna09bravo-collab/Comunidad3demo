@@ -22,7 +22,7 @@ import datetime
 d = st.date_input(
 "Seleccione Fecha",
 datetime.date(2019, 7, 6))
-st.write('Tu cumpleños es:', d)
+st.write('La fecha seleccionada es:', d)
 
 
 import streamlit as st
