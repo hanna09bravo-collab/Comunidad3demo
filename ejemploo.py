@@ -5,9 +5,6 @@ st.title('Titulo del Proyecto')
 
 
 
-st.color_picker(label, value=None, key=None, help=None, on_change=None, args=None, kwargs=None, *, disabled=False, label_visibility="visible", width="content")
-
-
 import streamlit as st
 import pandas as pd
 import numpy as np
